@@ -111,10 +111,6 @@ which doesn't include image drivers.
 
 Driver for IBM's AIX.
 
-=item DRIVER_BSDI
-
-Driver for BSDI.
-
 =item DRIVER_FREEBSD
 
 Driver for Free BSD

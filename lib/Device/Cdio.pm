@@ -113,7 +113,6 @@ use Device::Cdio::Util qw( _check_arg_count _extra_args _rearrange );
 %Device::Cdio::drivers = (
     'Unknown'   => $perlcdio::DRIVER_UNKNOWN,
     'AIX'       => $perlcdio::DRIVER_AIX,
-    'BSDI'      => $perlcdio::DRIVER_BSDI,
     'FreeBSD'   => $perlcdio::DRIVER_FREEBSD,
     'GNU/Linux' => $perlcdio::DRIVER_LINUX,
     'Solaris'   => $perlcdio::DRIVER_SOLARIS,
